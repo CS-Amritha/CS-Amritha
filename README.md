@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hello, I'm C S Amritha !
+
+🎓 Third-year B.Tech student specializing in **Cyber Security** at Amrita Vishwa Vidyapeetham.  
+
+
+
 
 <!--
 **CS-Amritha/CS-Amritha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
